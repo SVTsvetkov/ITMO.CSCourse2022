@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ITMO.CSCourse2022
+namespace Exercise1
 {
     internal class Program
     {
