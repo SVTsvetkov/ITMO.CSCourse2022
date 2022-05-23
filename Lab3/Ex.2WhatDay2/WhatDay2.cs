@@ -51,8 +51,6 @@ namespace Ex._2WhatDay2
                             monthNum++;
                         }
                     }
-
-
                     //    if (dayNum <= 31)
                     //    { // January
                     //        goto End;
@@ -162,10 +160,8 @@ namespace Ex._2WhatDay2
                     //        monthNum++;
                     //    }
                     //End:
-
                     MonthName temp = (MonthName)monthNum;
                     string monthName = temp.ToString();
-
                     //switch (monthNum)
                     //{
                     //    case 0:
